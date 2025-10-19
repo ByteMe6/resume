@@ -711,3 +711,20 @@ a:after {
   }
 }
 /*# sourceMappingURL=index.css.map */
+
+.nodeBadge {
+background: linear-gradient(135deg, #00FF7F, #00D8FF);
+  color: #1e1e26;
+  padding: 4px 8px;
+  border-radius: 12px;
+  font-size: 0.8em;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  -webkit-box-shadow: 0 2px 4px rgba(97, 218, 251, 0.3);
+          box-shadow: 0 2px 4px rgba(97, 218, 251, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  display: inline-block;
+  margin-left: 8px;
+  vertical-align: middle;
+}
