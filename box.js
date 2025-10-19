@@ -105,7 +105,7 @@ buttonProjects.addEventListener("click", function () {
         <li><a href="https://byteme6.github.io/miniDairy/" aria-label="Simple coffe">mini dairy (some notes for 24 hours)</a></li>
 <li><a href="https://byteme6.github.io/tictactoe/" aria-label="Simple coffe">ticTacToe <span class="reactBadge">react</span></a></li>
 <li><a href="https://riddles-net.vercel.app/" aria-label="riddles net">riddles net <span class="reactBadge">react</span></a></li>
-<li><a href="t.me/okimi_chan_bot">okimi chan (osu stats) <span class="nodeBadge">node.js</span></a></li>
+<li><a href="https://t.me/okimi_chan_bot">okimi chan (osu stats) <span class="nodeBadge">node.js</span></a></li>
 
       </ul>
     `
